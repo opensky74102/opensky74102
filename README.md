@@ -1,4 +1,4 @@
-<a target="blank" href="https://profile-counter.glitch.me/opensky74102/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/opensky74102/count.svg" /></a>
+
 
 ---
  
