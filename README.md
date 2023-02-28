@@ -14,8 +14,8 @@
 
 ### 🍯 Technical Stack
 
-- 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
-- ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
+- 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Golang 𒑰 Web3.js 𒑰 Ethers.js
+- ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C# 𒑰 PHP 𒑰 Python | Golang | ASP.NET core | Solidity | Rust Tailwind CSS
 - 🥇 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
 - 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django 𒑰 Java Spring Boot
 - 🏹 Chrome extension with React & Redux
